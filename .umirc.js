@@ -26,6 +26,7 @@ export default {
   targets: {
     ie: 10,
   },
+  hash: true,
   publicPath: "",
   treeShaking: true,
   alias: {
